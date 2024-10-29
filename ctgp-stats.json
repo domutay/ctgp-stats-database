@@ -15524,11 +15524,11 @@
     "controller": 0,
     "country": 255,
     "stars": {
-      "bronze": 129,
-      "silver": 82,
+      "bronze": 130,
+      "silver": 83,
       "gold": 4
     },
-    "score": "45.4"
+    "score": "45.8"
   },
   "E6453394FA756B67": {
     "name": "Link",
@@ -18152,5 +18152,6 @@
       "gold": 18
     },
     "score": "29.2"
-  }
+  },
+  "lastUpdated": 1730179055696
 }
