@@ -1400,7 +1400,7 @@
       },
       "Aquadrom Stage": {
         "category": 0,
-        "placement": 8
+        "placement": 9
       },
       "Aura Metropolis": {
         "category": 0,
@@ -1596,7 +1596,7 @@
       },
       "N64 Royal Raceway": {
         "category": 0,
-        "placement": 6
+        "placement": 7
       },
       "N64 Wario Stadium": {
         "category": 0,
@@ -2154,7 +2154,7 @@
       },
       "Starry Cityscape": {
         "category": 0,
-        "placement": 7
+        "placement": 8
       },
       "Super Marine World": {
         "category": 0,
@@ -2194,7 +2194,7 @@
       },
       "Toadette's Castle": {
         "category": 0,
-        "placement": 8
+        "placement": 9
       },
       "Twin Peaks": {
         "category": 2,
@@ -2653,7 +2653,7 @@
   "40E78839761C0BCF": {
     "name": "Orca",
     "bkts": 0,
-    "tops": 38,
+    "tops": 41,
     "tracks": {
       "Abyssal Ruins": {
         "category": 0,
@@ -2662,6 +2662,14 @@
       "Alpine Skyway": {
         "category": 0,
         "placement": 6
+      },
+      "Amanita Abyss": {
+        "category": 0,
+        "placement": 9
+      },
+      "Aquadrom Stage": {
+        "category": 0,
+        "placement": 5
       },
       "BK Moai Mountain": {
         "category": 0,
@@ -2761,7 +2769,7 @@
       },
       "N64 Royal Raceway": {
         "category": 0,
-        "placement": 7
+        "placement": 8
       },
       "Rock Rock Ridge": {
         "category": 0,
@@ -2785,6 +2793,10 @@
       },
       "τ-Cryovolcano": {
         "category": 2,
+        "placement": 8
+      },
+      "Terra Ursae": {
+        "category": 0,
         "placement": 8
       },
       "Thump Bump Forest": {
@@ -2815,7 +2827,7 @@
       "silver": 250,
       "gold": 249
     },
-    "score": "592.0"
+    "score": "622.0"
   },
   "3735C6FE62F34E96": {
     "name": "Ω Weexy",
@@ -2924,7 +2936,7 @@
       },
       "Toadette's Castle": {
         "category": 0,
-        "placement": 4
+        "placement": 5
       },
       "Vile Isle": {
         "category": 0,
@@ -2951,7 +2963,7 @@
   "6D3B9E8CD96057F0": {
     "name": "Marvin",
     "bkts": 0,
-    "tops": 36,
+    "tops": 35,
     "tracks": {
       "Abyssal Ruins": {
         "category": 0,
@@ -3041,10 +3053,6 @@
         "category": 0,
         "placement": 6
       },
-      "Dawn Township": {
-        "category": 0,
-        "placement": 9
-      },
       "Desert Castle Raceway": {
         "category": 2,
         "placement": 7
@@ -3105,7 +3113,7 @@
       "silver": 250,
       "gold": 250
     },
-    "score": "572.5"
+    "score": "562.5"
   },
   "CBF0CD7528C9C863": {
     "name": "Hιnτz.",
@@ -3526,7 +3534,7 @@
   "D0A19B3E6DA5461A": {
     "name": "Pyro",
     "bkts": 0,
-    "tops": 15,
+    "tops": 16,
     "tracks": {
       "Alpine Skyway": {
         "category": 0,
@@ -3539,6 +3547,10 @@
       "Bowser Jr.'s Crafty Castle": {
         "category": 0,
         "placement": 7
+      },
+      "Dawn Township": {
+        "category": 0,
+        "placement": 8
       },
       "DS Mario Circuit": {
         "category": 0,
@@ -3596,7 +3608,7 @@
       "silver": 212,
       "gold": 210
     },
-    "score": "329.2"
+    "score": "339.2"
   },
   "9F97D64498FBF735": {
     "name": "Entropy",
@@ -3656,9 +3668,13 @@
   "DCA6E1BE889CE2EF": {
     "name": "IF Scoped",
     "bkts": 0,
-    "tops": 12,
+    "tops": 13,
     "tracks": {
       "Alpine Skyway": {
+        "category": 0,
+        "placement": 7
+      },
+      "Blissful Block": {
         "category": 0,
         "placement": 7
       },
@@ -3714,7 +3730,7 @@
       "silver": 240,
       "gold": 206
     },
-    "score": "307.0"
+    "score": "317.0"
   },
   "1601E377274049BE": {
     "name": "JohnGMKW",
@@ -4070,33 +4086,6 @@
     },
     "score": "589.0"
   },
-  "1BCA5DC82C3B69A0": {
-    "name": "free mmr↓",
-    "bkts": 0,
-    "tops": 3,
-    "tracks": {
-      "Amanita Abyss": {
-        "category": 0,
-        "placement": 9
-      },
-      "Wetland Woods": {
-        "category": 0,
-        "placement": 5
-      },
-      "Wicked Woods": {
-        "category": 0,
-        "placement": 4
-      }
-    },
-    "controller": 3,
-    "country": 255,
-    "stars": {
-      "bronze": 27,
-      "silver": 26,
-      "gold": 23
-    },
-    "score": "50.7"
-  },
   "89DE32ADDA0E26FF": {
     "name": "Tεα Kεττlε",
     "bkts": 1,
@@ -4391,7 +4380,7 @@
       },
       "Toadette's Castle": {
         "category": 0,
-        "placement": 6
+        "placement": 7
       },
       "Volcanic Skyway": {
         "category": 0,
@@ -4730,11 +4719,11 @@
   "F779CCEA92D16B12": {
     "name": "Sophiaª",
     "bkts": 1,
-    "tops": 25,
+    "tops": 24,
     "tracks": {
       "Aquadrom Stage": {
         "category": 0,
-        "placement": 5
+        "placement": 6
       },
       "Area 64": {
         "category": 0,
@@ -4742,7 +4731,7 @@
       },
       "Blissful Block": {
         "category": 0,
-        "placement": 8
+        "placement": 9
       },
       "Castle of Time": {
         "category": 1,
@@ -4812,10 +4801,6 @@
         "category": 2,
         "placement": 5
       },
-      "Terra Ursae": {
-        "category": 0,
-        "placement": 9
-      },
       "Underground Sky": {
         "category": 16,
         "placement": 4
@@ -4840,7 +4825,7 @@
       "silver": 250,
       "gold": 250
     },
-    "score": "562.5"
+    "score": "552.5"
   },
   "9598480D506E6F23": {
     "name": "【η】\\('_')/",
@@ -4849,7 +4834,7 @@
     "tracks": {
       "Aquadrom Stage": {
         "category": 0,
-        "placement": 6
+        "placement": 7
       }
     },
     "controller": 2,
@@ -4868,7 +4853,7 @@
     "tracks": {
       "Aquadrom Stage": {
         "category": 0,
-        "placement": 7
+        "placement": 8
       },
       "BK Moai Mountain": {
         "category": 0,
@@ -5068,33 +5053,6 @@
     },
     "score": "972.5"
   },
-  "1A789964BBB60F9D": {
-    "name": "Michael",
-    "bkts": 0,
-    "tops": 3,
-    "tracks": {
-      "Aquadrom Stage": {
-        "category": 0,
-        "placement": 9
-      },
-      "Strobenz Desert Illusion": {
-        "category": 0,
-        "placement": 9
-      },
-      "Toad's Temple": {
-        "category": 16,
-        "placement": 3
-      }
-    },
-    "controller": 2,
-    "country": 49,
-    "stars": {
-      "bronze": 250,
-      "silver": 250,
-      "gold": 250
-    },
-    "score": "242.5"
-  },
   "A491A4685C8F76EA": {
     "name": "もなか",
     "bkts": 0,
@@ -5181,7 +5139,7 @@
       },
       "Toadette's Castle": {
         "category": 0,
-        "placement": 5
+        "placement": 6
       },
       "Underground Sky": {
         "category": 2,
@@ -5307,7 +5265,7 @@
       },
       "Sandy Clocktower": {
         "category": 0,
-        "placement": 2
+        "placement": 3
       },
       "Shy Guy Lumber Co.": {
         "category": 1,
@@ -6535,7 +6493,7 @@
       },
       "Starry Cityscape": {
         "category": 0,
-        "placement": 8
+        "placement": 9
       },
       "τ-Cryovolcano": {
         "category": 2,
@@ -7158,16 +7116,16 @@
     "controller": 2,
     "country": 18,
     "stars": {
-      "bronze": 226,
-      "silver": 158,
-      "gold": 8
+      "bronze": 227,
+      "silver": 160,
+      "gold": 9
     },
-    "score": "76.1"
+    "score": "77.2"
   },
   "40B20BE4FD8CA88C": {
     "name": "καgυγα",
     "bkts": 2,
-    "tops": 9,
+    "tops": 8,
     "tracks": {
       "Big Express City": {
         "category": 2,
@@ -7193,10 +7151,6 @@
         "category": 0,
         "placement": 7
       },
-      "Starry Cityscape": {
-        "category": 0,
-        "placement": 9
-      },
       "The Grand Archives": {
         "category": 0,
         "placement": 1
@@ -7217,7 +7171,7 @@
       "silver": 33,
       "gold": 29
     },
-    "score": "316.3"
+    "score": "306.3"
   },
   "D8EEEF0F2872E83F": {
     "name": "καgυγα",
@@ -7523,7 +7477,7 @@
     "tracks": {
       "Blissful Block": {
         "category": 0,
-        "placement": 7
+        "placement": 8
       },
       "Castle of Time": {
         "category": 0,
@@ -7627,7 +7581,7 @@
       },
       "Toadette's Castle": {
         "category": 0,
-        "placement": 9
+        "placement": 4
       },
       "Windy Whirl": {
         "category": 0,
@@ -7646,41 +7600,6 @@
       "gold": 221
     },
     "score": "760.0"
-  },
-  "C924039608AEDE35": {
-    "name": "RG bro",
-    "bkts": 1,
-    "tops": 4,
-    "tracks": {
-      "Blissful Block": {
-        "category": 0,
-        "placement": 9
-      },
-      "Bowser Jr.'s Fort": {
-        "category": 0,
-        "placement": 1
-      },
-      "GCN Wario Colosseum": {
-        "category": 2,
-        "placement": 2
-      },
-      "Strobenz Desert Illusion": {
-        "category": 0,
-        "placement": 3
-      },
-      "Thump Bump Forest": {
-        "category": 0,
-        "placement": 0
-      }
-    },
-    "controller": 2,
-    "country": 110,
-    "stars": {
-      "bronze": 224,
-      "silver": 223,
-      "gold": 220
-    },
-    "score": "328.1"
   },
   "4667DF10BA1CE32F": {
     "name": "V$ Gizbro",
@@ -7887,7 +7806,7 @@
       },
       "Dawn Township": {
         "category": 0,
-        "placement": 8
+        "placement": 9
       },
       "GBA Lakeside Park": {
         "category": 0,
@@ -8274,6 +8193,37 @@
     },
     "score": "182.1"
   },
+  "C924039608AEDE35": {
+    "name": "RG bro",
+    "bkts": 1,
+    "tops": 3,
+    "tracks": {
+      "Bowser Jr.'s Fort": {
+        "category": 0,
+        "placement": 1
+      },
+      "GCN Wario Colosseum": {
+        "category": 2,
+        "placement": 2
+      },
+      "Strobenz Desert Illusion": {
+        "category": 0,
+        "placement": 3
+      },
+      "Thump Bump Forest": {
+        "category": 0,
+        "placement": 0
+      }
+    },
+    "controller": 2,
+    "country": 110,
+    "stars": {
+      "bronze": 224,
+      "silver": 223,
+      "gold": 220
+    },
+    "score": "318.1"
+  },
   "AF6E37764609B580": {
     "name": "Cantσn",
     "bkts": 0,
@@ -8377,7 +8327,7 @@
       },
       "Terra Ursae": {
         "category": 0,
-        "placement": 8
+        "placement": 9
       },
       "Thwomp Swamp": {
         "category": 0,
@@ -10692,11 +10642,11 @@
     "controller": 2,
     "country": 255,
     "stars": {
-      "bronze": 209,
-      "silver": 208,
+      "bronze": 210,
+      "silver": 209,
       "gold": 176
     },
-    "score": "170.9"
+    "score": "171.3"
   },
   "057D246F60BDED1A": {
     "name": "★Cløνξr★ ツ",
@@ -11160,7 +11110,7 @@
   "A950224F73EAF66C": {
     "name": "10isthemax",
     "bkts": 3,
-    "tops": 6,
+    "tops": 7,
     "tracks": {
       "Desert Fort": {
         "category": 0,
@@ -11182,6 +11132,10 @@
         "category": 0,
         "placement": 3
       },
+      "Starry Cityscape": {
+        "category": 0,
+        "placement": 7
+      },
       "Toad's Temple": {
         "category": 2,
         "placement": 0
@@ -11198,11 +11152,11 @@
     "controller": 2,
     "country": 49,
     "stars": {
-      "bronze": 83,
-      "silver": 81,
-      "gold": 62
+      "bronze": 84,
+      "silver": 82,
+      "gold": 63
     },
-    "score": "419.6"
+    "score": "430.4"
   },
   "62E2998F7927F806": {
     "name": "♪ghst.",
@@ -11309,11 +11263,11 @@
     "controller": 2,
     "country": 110,
     "stars": {
-      "bronze": 7,
-      "silver": 6,
+      "bronze": 8,
+      "silver": 7,
       "gold": 4
     },
-    "score": "124.2"
+    "score": "124.5"
   },
   "F3121BC1347B7C4F": {
     "name": "Blue",
@@ -13680,7 +13634,7 @@
       },
       "Toadette's Castle": {
         "category": 0,
-        "placement": 7
+        "placement": 8
       },
       "Underground Sky": {
         "category": 1,
@@ -14649,11 +14603,11 @@
     "controller": 2,
     "country": 16,
     "stars": {
-      "bronze": 249,
-      "silver": 249,
+      "bronze": 250,
+      "silver": 250,
       "gold": 122
     },
-    "score": "158.2"
+    "score": "158.5"
   },
   "AC97534965AC6724": {
     "name": "Shane",
@@ -14890,11 +14844,11 @@
     "controller": 1,
     "country": 78,
     "stars": {
-      "bronze": 243,
-      "silver": 243,
-      "gold": 242
+      "bronze": 250,
+      "silver": 250,
+      "gold": 249
     },
-    "score": "326.1"
+    "score": "332.0"
   },
   "9E0D6D2FBC109C35": {
     "name": "flurry",
@@ -15939,11 +15893,11 @@
     "controller": 2,
     "country": 49,
     "stars": {
-      "bronze": 198,
-      "silver": 198,
-      "gold": 195
+      "bronze": 204,
+      "silver": 204,
+      "gold": 199
     },
-    "score": "186.8"
+    "score": "190.9"
   },
   "DFEFE730171BF61C": {
     "name": "EXO Ethan",
@@ -16229,11 +16183,11 @@
     "controller": 1,
     "country": 153,
     "stars": {
-      "bronze": 166,
-      "silver": 165,
+      "bronze": 167,
+      "silver": 166,
       "gold": 142
     },
-    "score": "148.8"
+    "score": "149.2"
   },
   "C61DF1FEE0C61D84": {
     "name": "かたつむり★goWR",
@@ -16459,9 +16413,9 @@
     "stars": {
       "bronze": 40,
       "silver": 39,
-      "gold": 30
+      "gold": 31
     },
-    "score": "38.8"
+    "score": "39.3"
   },
   "BEFFC1EDEF914AE7": {
     "name": "Fλ μ's",
@@ -16539,7 +16493,7 @@
     "tracks": {
       "N64 Royal Raceway": {
         "category": 0,
-        "placement": 8
+        "placement": 6
       }
     },
     "controller": 1,
@@ -16606,11 +16560,11 @@
     "controller": 2,
     "country": 255,
     "stars": {
-      "bronze": 40,
-      "silver": 40,
-      "gold": 35
+      "bronze": 41,
+      "silver": 41,
+      "gold": 36
     },
-    "score": "41.5"
+    "score": "42.4"
   },
   "125011E9D72015A2": {
     "name": "Flαg♪César",
@@ -16989,7 +16943,7 @@
     "tracks": {
       "Sandy Clocktower": {
         "category": 0,
-        "placement": 3
+        "placement": 2
       }
     },
     "controller": 3,
@@ -17014,11 +16968,11 @@
     "controller": 1,
     "country": 49,
     "stars": {
-      "bronze": 130,
-      "silver": 128,
+      "bronze": 131,
+      "silver": 129,
       "gold": 115
     },
-    "score": "112.5"
+    "score": "112.8"
   },
   "079F6251C30B49C3": {
     "name": "Zuspii",
@@ -17308,6 +17262,29 @@
       "gold": 19
     },
     "score": "26.6"
+  },
+  "1A789964BBB60F9D": {
+    "name": "Michael",
+    "bkts": 0,
+    "tops": 2,
+    "tracks": {
+      "Strobenz Desert Illusion": {
+        "category": 0,
+        "placement": 9
+      },
+      "Toad's Temple": {
+        "category": 16,
+        "placement": 3
+      }
+    },
+    "controller": 2,
+    "country": 49,
+    "stars": {
+      "bronze": 250,
+      "silver": 250,
+      "gold": 250
+    },
+    "score": "232.5"
   },
   "1AAB5E2ECF2BC80B": {
     "name": "Cγ kit",
@@ -17611,11 +17588,11 @@
     "controller": 2,
     "country": 18,
     "stars": {
-      "bronze": 180,
-      "silver": 180,
-      "gold": 134
+      "bronze": 181,
+      "silver": 181,
+      "gold": 135
     },
-    "score": "140.0"
+    "score": "140.8"
   },
   "EC76B472398CD117": {
     "name": "L;",
@@ -17944,6 +17921,29 @@
     },
     "score": "43.1"
   },
+  "1BCA5DC82C3B69A0": {
+    "name": "free mmr↓",
+    "bkts": 0,
+    "tops": 2,
+    "tracks": {
+      "Wetland Woods": {
+        "category": 0,
+        "placement": 5
+      },
+      "Wicked Woods": {
+        "category": 0,
+        "placement": 4
+      }
+    },
+    "controller": 3,
+    "country": 255,
+    "stars": {
+      "bronze": 27,
+      "silver": 26,
+      "gold": 23
+    },
+    "score": "40.7"
+  },
   "8E93822909437FAF": {
     "name": "satinqs",
     "bkts": 0,
@@ -18153,5 +18153,5 @@
     },
     "score": "29.2"
   },
-  "lastUpdated": 1730255007306
+  "lastUpdated": 1730360854198
 }
