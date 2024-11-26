@@ -2,7 +2,7 @@
   "588538604751E9A3": {
     "name": "cτβ",
     "bkts": 10,
-    "tops": 74,
+    "tops": 73,
     "tracks": {
       "Abandoned Boardwalk": {
         "category": 0,
@@ -236,10 +236,6 @@
         "category": 0,
         "placement": 3
       },
-      "N64 Yoshi Valley": {
-        "category": 0,
-        "placement": 8
-      },
       "Neo Koopa City": {
         "category": 2,
         "placement": 4
@@ -344,12 +340,12 @@
       "silver": 175,
       "gold": 175
     },
-    "score": "1888.8"
+    "score": "1878.8"
   },
   "D04D186FC8E58F13": {
     "name": "Abhilash",
-    "bkts": 19,
-    "tops": 42,
+    "bkts": 20,
+    "tops": 41,
     "tracks": {
       "Abandoned Boardwalk": {
         "category": 0,
@@ -397,7 +393,7 @@
       },
       "Delfino Island": {
         "category": 0,
-        "placement": 8
+        "placement": 9
       },
       "Desert Castle Raceway": {
         "category": 2,
@@ -453,7 +449,7 @@
       },
       "GBA Lakeside Park": {
         "category": 0,
-        "placement": 1
+        "placement": 0
       },
       "GBA Mario Circuit": {
         "category": 0,
@@ -595,7 +591,7 @@
       "silver": 175,
       "gold": 158
     },
-    "score": "2460.8"
+    "score": "2550.8"
   },
   "B87AC5F4E0D51ABD": {
     "name": "Jake",
@@ -708,7 +704,7 @@
       },
       "N64 Yoshi Valley": {
         "category": 0,
-        "placement": 1
+        "placement": 2
       },
       "Obstagoon's Palace": {
         "category": 0,
@@ -978,7 +974,7 @@
   "6D3B9E8CD96057F0": {
     "name": "Marvin",
     "bkts": 0,
-    "tops": 57,
+    "tops": 56,
     "tracks": {
       "Abandoned Boardwalk": {
         "category": 0,
@@ -1006,11 +1002,11 @@
       },
       "Aquadrom Stage": {
         "category": 0,
-        "placement": 6
+        "placement": 7
       },
       "Area 64": {
         "category": 0,
-        "placement": 6
+        "placement": 7
       },
       "Aura Metropolis": {
         "category": 0,
@@ -1078,11 +1074,7 @@
       },
       "Castle of Time": {
         "category": 0,
-        "placement": 6
-      },
-      "Celestial Ruins": {
-        "category": 0,
-        "placement": 9
+        "placement": 7
       },
       "Cherry Blossom Garden": {
         "category": 0,
@@ -1146,7 +1138,7 @@
       },
       "Darkness Temple": {
         "category": 0,
-        "placement": 6
+        "placement": 7
       },
       "Dawn Township": {
         "category": 0,
@@ -1198,7 +1190,7 @@
       },
       "Super Sky Courtyard": {
         "category": 0,
-        "placement": 8
+        "placement": 9
       },
       "τ-Cryovolcano": {
         "category": 2,
@@ -1216,12 +1208,12 @@
       "silver": 250,
       "gold": 250
     },
-    "score": "782.5"
+    "score": "772.5"
   },
   "D0A19B3E6DA5461A": {
     "name": "Pyro",
     "bkts": 0,
-    "tops": 16,
+    "tops": 17,
     "tracks": {
       "Abandoned Boardwalk": {
         "category": 0,
@@ -1243,6 +1235,10 @@
         "category": 0,
         "placement": 9
       },
+      "Celestial Ruins": {
+        "category": 0,
+        "placement": 9
+      },
       "Dawn Township": {
         "category": 0,
         "placement": 9
@@ -1261,7 +1257,7 @@
       },
       "GBA Sky Garden": {
         "category": 0,
-        "placement": 7
+        "placement": 8
       },
       "Gothic Castle": {
         "category": 0,
@@ -1291,11 +1287,11 @@
     "controller": 1,
     "country": 18,
     "stars": {
-      "bronze": 212,
-      "silver": 212,
-      "gold": 210
+      "bronze": 213,
+      "silver": 213,
+      "gold": 211
     },
-    "score": "339.2"
+    "score": "350.1"
   },
   "39B00EEE8050C7F5": {
     "name": "Fϋϋη♪ØωØ",
@@ -1714,7 +1710,7 @@
       },
       "Area 64": {
         "category": 0,
-        "placement": 5
+        "placement": 6
       },
       "Aura Metropolis": {
         "category": 0,
@@ -1754,7 +1750,7 @@
       },
       "Castle of Time": {
         "category": 0,
-        "placement": 1
+        "placement": 2
       },
       "Celestial Ruins": {
         "category": 0,
@@ -1902,7 +1898,7 @@
       },
       "N64 Choco Mountain": {
         "category": 0,
-        "placement": 7
+        "placement": 8
       },
       "N64 Rainbow Road": {
         "category": 0,
@@ -2006,7 +2002,7 @@
       },
       "Wicked Woods": {
         "category": 0,
-        "placement": 5
+        "placement": 6
       },
       "Wiimmfi Wonder World": {
         "category": 0,
@@ -2181,8 +2177,8 @@
   },
   "AA060CB527F22D33": {
     "name": "Ω Boshi",
-    "bkts": 6,
-    "tops": 45,
+    "bkts": 5,
+    "tops": 46,
     "tracks": {
       "Abyssal Ruins": {
         "category": 0,
@@ -2210,7 +2206,7 @@
       },
       "BK Moai Mountain": {
         "category": 0,
-        "placement": 0
+        "placement": 1
       },
       "Blissful Block": {
         "category": 0,
@@ -2392,7 +2388,7 @@
       "silver": 238,
       "gold": 238
     },
-    "score": "1252.4"
+    "score": "1162.4"
   },
   "E7003EE0EFA24466": {
     "name": "MV★Fernndz",
@@ -2444,7 +2440,7 @@
   "19B2986D5A69260B": {
     "name": "Reece",
     "bkts": 2,
-    "tops": 121,
+    "tops": 120,
     "tracks": {
       "Abyssal Ruins": {
         "category": 0,
@@ -2464,7 +2460,7 @@
       },
       "Area 64": {
         "category": 0,
-        "placement": 3
+        "placement": 4
       },
       "Aura Metropolis": {
         "category": 0,
@@ -2508,7 +2504,7 @@
       },
       "Castle of Time": {
         "category": 0,
-        "placement": 5
+        "placement": 6
       },
       "Cherry Blossom Garden": {
         "category": 0,
@@ -2545,10 +2541,6 @@
       "Daisy's Palace": {
         "category": 0,
         "placement": 6
-      },
-      "Darkness Temple": {
-        "category": 0,
-        "placement": 9
       },
       "Dawn Township": {
         "category": 0,
@@ -2804,7 +2796,7 @@
       },
       "Sandy Clocktower": {
         "category": 0,
-        "placement": 5
+        "placement": 6
       },
       "Shy Guy Lumber Co.": {
         "category": 0,
@@ -2900,7 +2892,7 @@
       },
       "Wicked Woods": {
         "category": 0,
-        "placement": 1
+        "placement": 3
       },
       "Wiimmfi Wonder World": {
         "category": 0,
@@ -2928,9 +2920,9 @@
     "stars": {
       "bronze": 176,
       "silver": 175,
-      "gold": 145
+      "gold": 146
     },
-    "score": "1543.8"
+    "score": "1534.3"
   },
   "40E78839761C0BCF": {
     "name": "Orca",
@@ -2951,7 +2943,7 @@
       },
       "Aquadrom Stage": {
         "category": 0,
-        "placement": 5
+        "placement": 6
       },
       "Coin Heaven": {
         "category": 0,
@@ -2959,7 +2951,7 @@
       },
       "Darkness Temple": {
         "category": 0,
-        "placement": 7
+        "placement": 8
       },
       "DK Ruins": {
         "category": 0,
@@ -3236,8 +3228,8 @@
   },
   "CBF0CD7528C9C863": {
     "name": "Hιnτz.",
-    "bkts": 9,
-    "tops": 22,
+    "bkts": 7,
+    "tops": 24,
     "tracks": {
       "Alpine Peak": {
         "category": 0,
@@ -3265,7 +3257,7 @@
       },
       "Castle of Time": {
         "category": 0,
-        "placement": 0
+        "placement": 1
       },
       "Celestial Ruins": {
         "category": 0,
@@ -3289,7 +3281,7 @@
       },
       "GBA Lakeside Park": {
         "category": 0,
-        "placement": 0
+        "placement": 1
       },
       "Halogen Highway": {
         "category": 0,
@@ -3371,7 +3363,7 @@
       "silver": 192,
       "gold": 186
     },
-    "score": "1280.2"
+    "score": "1100.2"
   },
   "670A939D04D29EB9": {
     "name": "[L] chrstn",
@@ -3589,8 +3581,8 @@
   },
   "8B43F81CF547A644": {
     "name": "Ω Ice",
-    "bkts": 3,
-    "tops": 9,
+    "bkts": 4,
+    "tops": 8,
     "tracks": {
       "Alpine Peak": {
         "category": 0,
@@ -3638,7 +3630,7 @@
       },
       "The Grand Archives": {
         "category": 0,
-        "placement": 1
+        "placement": 0
       }
     },
     "controller": 2,
@@ -3648,12 +3640,12 @@
       "silver": 36,
       "gold": 32
     },
-    "score": "418.7"
+    "score": "508.7"
   },
   "9F97D64498FBF735": {
     "name": "Entropy",
     "bkts": 1,
-    "tops": 12,
+    "tops": 13,
     "tracks": {
       "Alpine Skyway": {
         "category": 0,
@@ -3665,7 +3657,7 @@
       },
       "Darkness Temple": {
         "category": 0,
-        "placement": 8
+        "placement": 9
       },
       "DS Bowser Castle": {
         "category": 0,
@@ -3695,13 +3687,17 @@
         "category": 0,
         "placement": 5
       },
+      "Sandy Clocktower": {
+        "category": 0,
+        "placement": 7
+      },
       "SNES Bowser Castle 3": {
         "category": 0,
         "placement": 4
       },
       "Wicked Woods": {
         "category": 0,
-        "placement": 4
+        "placement": 1
       },
       "Wiimmfi Wonder World": {
         "category": 0,
@@ -3715,7 +3711,7 @@
       "silver": 250,
       "gold": 250
     },
-    "score": "432.5"
+    "score": "442.5"
   },
   "1239F755FDDA1387": {
     "name": "øl snowy΄",
@@ -3730,11 +3726,11 @@
     "controller": 2,
     "country": 128,
     "stars": {
-      "bronze": 142,
-      "silver": 142,
+      "bronze": 144,
+      "silver": 144,
       "gold": 58
     },
-    "score": "88.7"
+    "score": "89.4"
   },
   "DCA6E1BE889CE2EF": {
     "name": "IF Scoped",
@@ -3866,11 +3862,11 @@
       },
       "Rainbow Road: Solar Edition": {
         "category": 0,
-        "placement": 1
+        "placement": 2
       },
       "Sandy Clocktower": {
         "category": 0,
-        "placement": 6
+        "placement": 8
       },
       "Sky High Island": {
         "category": 0,
@@ -3886,7 +3882,7 @@
       },
       "Wicked Woods": {
         "category": 0,
-        "placement": 7
+        "placement": 8
       }
     },
     "controller": 1,
@@ -4625,7 +4621,7 @@
       },
       "Area 64": {
         "category": 0,
-        "placement": 7
+        "placement": 8
       },
       "Big Nature City": {
         "category": 0,
@@ -4665,6 +4661,33 @@
     },
     "score": "299.9"
   },
+  "1A789964BBB60F9D": {
+    "name": "Michael",
+    "bkts": 0,
+    "tops": 3,
+    "tracks": {
+      "Aquadrom Stage": {
+        "category": 0,
+        "placement": 4
+      },
+      "Strobenz Desert Illusion": {
+        "category": 0,
+        "placement": 9
+      },
+      "Toad's Temple": {
+        "category": 16,
+        "placement": 3
+      }
+    },
+    "controller": 2,
+    "country": 49,
+    "stars": {
+      "bronze": 250,
+      "silver": 250,
+      "gold": 250
+    },
+    "score": "242.5"
+  },
   "DB5302708B51F06B": {
     "name": "☆♪ηαΥHαπ♪☆",
     "bkts": 0,
@@ -4672,7 +4695,7 @@
     "tracks": {
       "Aquadrom Stage": {
         "category": 0,
-        "placement": 4
+        "placement": 5
       },
       "GBA Broken Pier": {
         "category": 0,
@@ -4709,13 +4732,17 @@
     "score": "277.4"
   },
   "F779CCEA92D16B12": {
-    "name": "Sophiaª",
-    "bkts": 0,
-    "tops": 23,
+    "name": "Sophia",
+    "bkts": 1,
+    "tops": 24,
     "tracks": {
       "Aquadrom Stage": {
         "category": 0,
-        "placement": 7
+        "placement": 8
+      },
+      "Area 64": {
+        "category": 1,
+        "placement": 6
       },
       "Castle of Time": {
         "category": 1,
@@ -4724,6 +4751,10 @@
       "Dark Matter Fortress": {
         "category": 0,
         "placement": 8
+      },
+      "Darkness Temple": {
+        "category": 0,
+        "placement": 6
       },
       "Desert Castle Raceway": {
         "category": 16,
@@ -4759,7 +4790,7 @@
       },
       "Rainbow Road: Solar Edition": {
         "category": 0,
-        "placement": 6
+        "placement": 7
       },
       "Sandstone Cliffs": {
         "category": 0,
@@ -4767,7 +4798,7 @@
       },
       "Sandy Clocktower": {
         "category": 0,
-        "placement": 7
+        "placement": 9
       },
       "Shy Guy Lumber Co.": {
         "category": 1,
@@ -4795,7 +4826,7 @@
       },
       "Wicked Woods": {
         "category": 0,
-        "placement": 8
+        "placement": 9
       },
       "Windy Whirl": {
         "category": 0,
@@ -4809,7 +4840,7 @@
       "silver": 250,
       "gold": 250
     },
-    "score": "442.5"
+    "score": "552.5"
   },
   "9598480D506E6F23": {
     "name": "【η】\\('_')/",
@@ -4818,7 +4849,7 @@
     "tracks": {
       "Aquadrom Stage": {
         "category": 0,
-        "placement": 8
+        "placement": 9
       }
     },
     "controller": 2,
@@ -4830,220 +4861,40 @@
     },
     "score": "47.4"
   },
-  "2B5181110E294547": {
-    "name": "Sνkitty",
-    "bkts": 3,
-    "tops": 48,
+  "5BBC317B1915541E": {
+    "name": "ψ Serene",
+    "bkts": 0,
+    "tops": 5,
     "tracks": {
-      "Aquadrom Stage": {
-        "category": 0,
-        "placement": 9
-      },
-      "BK Moai Mountain": {
-        "category": 0,
-        "placement": 7
-      },
-      "Bowser Jr.'s Crafty Castle": {
-        "category": 0,
-        "placement": 9
-      },
-      "Bowser Jr.'s Fort": {
-        "category": 0,
-        "placement": 6
-      },
-      "Bowser's Fiery Fortress": {
-        "category": 0,
-        "placement": 5
-      },
-      "Bowser's Termination Station": {
-        "category": 0,
-        "placement": 8
-      },
-      "Canyon Run": {
-        "category": 0,
-        "placement": 1
-      },
-      "Castle of Time": {
-        "category": 0,
-        "placement": 9
-      },
-      "Colour Wonderland": {
-        "category": 2,
-        "placement": 2
-      },
-      "Daisy's Palace": {
-        "category": 0,
-        "placement": 5
-      },
-      "Dark Matter Shrine": {
-        "category": 0,
-        "placement": 5
-      },
-      "Delfino Island": {
-        "category": 0,
-        "placement": 0
-      },
-      "Desktop Dash": {
-        "category": 0,
-        "placement": 5
-      },
-      "DK Ruins": {
-        "category": 0,
-        "placement": 5
-      },
-      "Dragon Burial Grounds": {
-        "category": 2,
-        "placement": 7
-      },
-      "DS DK Pass": {
-        "category": 0,
-        "placement": 5
-      },
-      "GBA Boo Lake": {
-        "category": 0,
-        "placement": 6
-      },
-      "GBA Bowser Castle 1": {
-        "category": 0,
-        "placement": 7
-      },
-      "GBA Bowser Castle 4": {
-        "category": 0,
-        "placement": 9
-      },
-      "GBA Broken Pier": {
-        "category": 0,
-        "placement": 9
-      },
-      "GBA Cheese Land": {
-        "category": 0,
-        "placement": 8
-      },
-      "GBA Lakeside Park": {
-        "category": 0,
-        "placement": 9
-      },
-      "GBA Luigi Circuit": {
-        "category": 0,
-        "placement": 4
-      },
-      "GBA Riverside Park": {
-        "category": 0,
-        "placement": 6
-      },
-      "GBA Sky Garden": {
-        "category": 0,
-        "placement": 6
-      },
-      "GBA Sunset Wilds": {
-        "category": 0,
-        "placement": 9
-      },
-      "Glimmer Express Trains": {
-        "category": 0,
-        "placement": 5
-      },
-      "Infernal Pipeyard": {
-        "category": 0,
-        "placement": 6
-      },
-      "Jiyuu Village": {
-        "category": 0,
-        "placement": 7
-      },
-      "Jungle Glade": {
-        "category": 1,
-        "placement": 3
-      },
-      "Lava Lake": {
-        "category": 0,
-        "placement": 3
-      },
-      "Lava Road": {
-        "category": 0,
-        "placement": 3
-      },
-      "Lost Fortress": {
+      "Area 64": {
         "category": 0,
         "placement": 2
       },
-      "Mario Castle Raceway": {
-        "category": 0,
-        "placement": 0
-      },
-      "Mushroom Island": {
-        "category": 0,
-        "placement": 9
-      },
-      "Musical Motorway": {
-        "category": 0,
-        "placement": 1
-      },
-      "Northern Heights": {
-        "category": 0,
-        "placement": 8
-      },
-      "Rainbow Road: Solar Edition": {
-        "category": 0,
-        "placement": 5
-      },
-      "Ruinated Peach's Castle": {
-        "category": 0,
-        "placement": 8
-      },
-      "Sahara Hideout": {
-        "category": 0,
-        "placement": 6
-      },
-      "Sandstone Cliffs": {
-        "category": 0,
-        "placement": 1
-      },
-      "Siberian Chateau": {
-        "category": 0,
-        "placement": 2
-      },
-      "SNES Mario Circuit 2": {
+      "Coin Heaven": {
         "category": 0,
         "placement": 3
       },
-      "Strobenz Desert Illusion": {
+      "Sandy Clocktower": {
         "category": 0,
         "placement": 1
-      },
-      "Summer Starville": {
-        "category": 0,
-        "placement": 0
       },
       "The Great Apple War": {
         "category": 0,
-        "placement": 8
+        "placement": 4
       },
-      "Thwomp Swamp": {
-        "category": 0,
-        "placement": 8
-      },
-      "Twin Peaks": {
-        "category": 2,
-        "placement": 8
-      },
-      "Underground Sky": {
-        "category": 2,
-        "placement": 7
-      },
-      "Volcanic Valley": {
-        "category": 0,
-        "placement": 7
+      "Toad's Temple": {
+        "category": 16,
+        "placement": 2
       }
     },
-    "controller": 1,
-    "country": 18,
+    "controller": 2,
+    "country": 49,
     "stars": {
-      "bronze": 249,
-      "silver": 249,
-      "gold": 249
+      "bronze": 201,
+      "silver": 201,
+      "gold": 195
     },
-    "score": "991.6"
+    "score": "217.8"
   },
   "A491A4685C8F76EA": {
     "name": "もなか",
@@ -5052,7 +4903,7 @@
     "tracks": {
       "Area 64": {
         "category": 0,
-        "placement": 2
+        "placement": 3
       },
       "Castle in the Sky": {
         "category": 0,
@@ -5080,11 +4931,11 @@
       },
       "Super Sky Courtyard": {
         "category": 0,
-        "placement": 7
+        "placement": 8
       },
       "τ-Cryovolcano": {
         "category": 16,
-        "placement": 7
+        "placement": 8
       },
       "Toad's Temple": {
         "category": 16,
@@ -5111,7 +4962,7 @@
     "tracks": {
       "Area 64": {
         "category": 0,
-        "placement": 4
+        "placement": 5
       },
       "Blissful Block": {
         "category": 0,
@@ -5187,7 +5038,7 @@
       },
       "Rainbow Road: Solar Edition": {
         "category": 0,
-        "placement": 3
+        "placement": 4
       },
       "Rosalina's Snow World": {
         "category": 0,
@@ -5254,7 +5105,7 @@
     "tracks": {
       "Area 64": {
         "category": 0,
-        "placement": 8
+        "placement": 9
       },
       "Dragon Burial Grounds": {
         "category": 16,
@@ -5266,11 +5117,11 @@
       },
       "Super Sky Courtyard": {
         "category": 0,
-        "placement": 6
+        "placement": 7
       },
       "τ-Cryovolcano": {
         "category": 16,
-        "placement": 8
+        "placement": 9
       },
       "Toad's Temple": {
         "category": 16,
@@ -5294,24 +5145,312 @@
     },
     "score": "402.5"
   },
-  "37F68936E5A7C583": {
-    "name": "MiiWii",
-    "bkts": 0,
+  "17D9E858E51F6859": {
+    "name": "flap",
+    "bkts": 1,
     "tops": 1,
     "tracks": {
       "Area 64": {
+        "category": 1,
+        "placement": 0
+      }
+    },
+    "controller": 2,
+    "country": 49,
+    "stars": {
+      "bronze": 20,
+      "silver": 8,
+      "gold": 3
+    },
+    "score": "115.5"
+  },
+  "BBD2EC73FF52D568": {
+    "name": "sy Dαnnγ",
+    "bkts": 0,
+    "tops": 2,
+    "tracks": {
+      "Area 64": {
+        "category": 1,
+        "placement": 1
+      },
+      "SNES Bowser Castle 2": {
         "category": 0,
+        "placement": 6
+      }
+    },
+    "controller": 2,
+    "country": 49,
+    "stars": {
+      "bronze": 250,
+      "silver": 250,
+      "gold": 227
+    },
+    "score": "221.0"
+  },
+  "708BBB3EE59D227F": {
+    "name": "WhenUSeeit",
+    "bkts": 0,
+    "tops": 7,
+    "tracks": {
+      "Area 64": {
+        "category": 1,
+        "placement": 2
+      },
+      "Bowser Jr.'s Crafty Castle": {
+        "category": 1,
+        "placement": 4
+      },
+      "CTR N. Gin Labs": {
+        "category": 1,
+        "placement": 8
+      },
+      "GBA Luigi Circuit": {
+        "category": 1,
+        "placement": 2
+      },
+      "Luigi's Island": {
+        "category": 1,
+        "placement": 3
+      },
+      "Ruinated Peach's Castle": {
+        "category": 1,
+        "placement": 7
+      },
+      "Yoshi's Woolly Raceway": {
+        "category": 1,
+        "placement": 4
+      }
+    },
+    "controller": 2,
+    "country": 255,
+    "stars": {
+      "bronze": 60,
+      "silver": 38,
+      "gold": 30
+    },
+    "score": "100.5"
+  },
+  "47F412EAC1AC604F": {
+    "name": "Sam",
+    "bkts": 0,
+    "tops": 10,
+    "tracks": {
+      "Area 64": {
+        "category": 1,
+        "placement": 3
+      },
+      "Bowser Jr.'s Crafty Castle": {
+        "category": 1,
+        "placement": 2
+      },
+      "CTR N. Gin Labs": {
+        "category": 1,
+        "placement": 7
+      },
+      "GBA Bowser Castle 4": {
+        "category": 1,
+        "placement": 5
+      },
+      "GCN Luigi Circuit": {
+        "category": 1,
+        "placement": 5
+      },
+      "Luigi's Island": {
+        "category": 1,
         "placement": 9
+      },
+      "Mech Factory": {
+        "category": 1,
+        "placement": 4
+      },
+      "Obstagoon's Palace": {
+        "category": 1,
+        "placement": 6
+      },
+      "The Grand Archives": {
+        "category": 1,
+        "placement": 6
+      },
+      "Wolf Castlegrounds": {
+        "category": 1,
+        "placement": 3
+      }
+    },
+    "controller": 0,
+    "country": 255,
+    "stars": {
+      "bronze": 94,
+      "silver": 57,
+      "gold": 52
+    },
+    "score": "149.7"
+  },
+  "D6A08AABAF569EC3": {
+    "name": "CARSON MKW",
+    "bkts": 0,
+    "tops": 16,
+    "tracks": {
+      "Area 64": {
+        "category": 1,
+        "placement": 4
+      },
+      "Bowser Jr.'s Crafty Castle": {
+        "category": 1,
+        "placement": 6
+      },
+      "CTR Blizzard Bluff": {
+        "category": 1,
+        "placement": 1
+      },
+      "Delfino Island": {
+        "category": 1,
+        "placement": 3
+      },
+      "DS Cheep Cheep Beach": {
+        "category": 0,
+        "placement": 8
+      },
+      "Frantic Funyard": {
+        "category": 2,
+        "placement": 8
+      },
+      "GCN Luigi Circuit": {
+        "category": 1,
+        "placement": 4
+      },
+      "Hell Pyramid": {
+        "category": 16,
+        "placement": 7
+      },
+      "Jiyuu Village": {
+        "category": 1,
+        "placement": 5
+      },
+      "Jungle Cliff": {
+        "category": 1,
+        "placement": 2
+      },
+      "Marble Towers": {
+        "category": 1,
+        "placement": 2
+      },
+      "Mech Factory": {
+        "category": 1,
+        "placement": 2
+      },
+      "Obstagoon's Palace": {
+        "category": 1,
+        "placement": 8
+      },
+      "τ-Cryovolcano": {
+        "category": 16,
+        "placement": 1
+      },
+      "Toad's Temple": {
+        "category": 16,
+        "placement": 1
+      },
+      "Wolf Castlegrounds": {
+        "category": 1,
+        "placement": 8
       }
     },
     "controller": 1,
     "country": 49,
     "stars": {
-      "bronze": 102,
-      "silver": 96,
-      "gold": 53
+      "bronze": 248,
+      "silver": 248,
+      "gold": 248
     },
-    "score": "70.7"
+    "score": "370.8"
+  },
+  "B52F137038D0E7A2": {
+    "name": "mariokirby",
+    "bkts": 0,
+    "tops": 1,
+    "tracks": {
+      "Area 64": {
+        "category": 1,
+        "placement": 5
+      }
+    },
+    "controller": 1,
+    "country": 78,
+    "stars": {
+      "bronze": 5,
+      "silver": 2,
+      "gold": 1
+    },
+    "score": "11.5"
+  },
+  "8CC5392B4B29316B": {
+    "name": "sy f♪",
+    "bkts": 0,
+    "tops": 1,
+    "tracks": {
+      "Area 64": {
+        "category": 1,
+        "placement": 7
+      }
+    },
+    "controller": 1,
+    "country": 34,
+    "stars": {
+      "bronze": 59,
+      "silver": 51,
+      "gold": 14
+    },
+    "score": "35.6"
+  },
+  "5066366167F619B7": {
+    "name": "Mkw Daigo",
+    "bkts": 0,
+    "tops": 4,
+    "tracks": {
+      "Area 64": {
+        "category": 1,
+        "placement": 8
+      },
+      "Delfino Island": {
+        "category": 1,
+        "placement": 6
+      },
+      "GCN Bowser's Castle": {
+        "category": 16,
+        "placement": 9
+      },
+      "GCN Luigi Circuit": {
+        "category": 1,
+        "placement": 8
+      }
+    },
+    "controller": 2,
+    "country": 1,
+    "stars": {
+      "bronze": 16,
+      "silver": 8,
+      "gold": 3
+    },
+    "score": "45.1"
+  },
+  "5ABD5AC19D577779": {
+    "name": "PSY.S",
+    "bkts": 0,
+    "tops": 1,
+    "tracks": {
+      "Area 64": {
+        "category": 1,
+        "placement": 9
+      }
+    },
+    "controller": 2,
+    "country": 255,
+    "stars": {
+      "bronze": 132,
+      "silver": 125,
+      "gold": 52
+    },
+    "score": "80.5"
   },
   "D0164155D1E00C2F": {
     "name": "Ac Stubbz",
@@ -5513,7 +5652,7 @@
       },
       "BK Moai Mountain": {
         "category": 0,
-        "placement": 1
+        "placement": 2
       },
       "Boshi Skatepark": {
         "category": 0,
@@ -5764,7 +5903,7 @@
       },
       "Delfino Island": {
         "category": 0,
-        "placement": 5
+        "placement": 6
       },
       "Disco Fever": {
         "category": 0,
@@ -5923,7 +6062,7 @@
   "890E6F8CCB86DA53": {
     "name": "Reece",
     "bkts": 0,
-    "tops": 50,
+    "tops": 49,
     "tracks": {
       "Autumn Leavesway": {
         "category": 0,
@@ -6012,10 +6151,6 @@
       "GBA Cheep Cheep Island": {
         "category": 0,
         "placement": 2
-      },
-      "GBA Sky Garden": {
-        "category": 0,
-        "placement": 9
       },
       "GCN Bowser's Castle": {
         "category": 2,
@@ -6129,7 +6264,7 @@
       "silver": 138,
       "gold": 133
     },
-    "score": "614.8"
+    "score": "604.8"
   },
   "D1FFF937A494393D": {
     "name": "PrS Mυrrαγ",
@@ -6290,9 +6425,9 @@
     "stars": {
       "bronze": 201,
       "silver": 188,
-      "gold": 19
+      "gold": 20
     },
-    "score": "136.6"
+    "score": "137.1"
   },
   "F713EC391CD9B0C5": {
     "name": "papadoble",
@@ -6380,8 +6515,8 @@
   },
   "FA7569BFBD61FAA4": {
     "name": "Ac zilla",
-    "bkts": 4,
-    "tops": 18,
+    "bkts": 3,
+    "tops": 19,
     "tracks": {
       "Banished Keep": {
         "category": 2,
@@ -6397,7 +6532,7 @@
       },
       "Castle of Time": {
         "category": 0,
-        "placement": 4
+        "placement": 5
       },
       "Colour Wonderland": {
         "category": 2,
@@ -6461,7 +6596,7 @@
       },
       "The Grand Archives": {
         "category": 0,
-        "placement": 0
+        "placement": 1
       },
       "Volcanic Valley": {
         "category": 0,
@@ -6475,7 +6610,7 @@
       "silver": 82,
       "gold": 71
     },
-    "score": "644.5"
+    "score": "554.5"
   },
   "8D5E9B25C4754392": {
     "name": "Ac zilla",
@@ -6583,7 +6718,7 @@
   "CA214F0DB57DB789": {
     "name": "R¥ laty",
     "bkts": 4,
-    "tops": 27,
+    "tops": 26,
     "tracks": {
       "Banished Keep": {
         "category": 2,
@@ -6637,10 +6772,6 @@
         "category": 0,
         "placement": 4
       },
-      "Infernal Pipeyard": {
-        "category": 0,
-        "placement": 9
-      },
       "Marble Towers": {
         "category": 0,
         "placement": 1
@@ -6663,7 +6794,7 @@
       },
       "Rainbow Road: Solar Edition": {
         "category": 0,
-        "placement": 4
+        "placement": 5
       },
       "Sahara Hideout": {
         "category": 0,
@@ -6703,7 +6834,7 @@
       },
       "Wicked Woods": {
         "category": 0,
-        "placement": 2
+        "placement": 4
       },
       "Yoshi Lagoon": {
         "category": 0,
@@ -6717,7 +6848,7 @@
       "silver": 250,
       "gold": 250
     },
-    "score": "882.5"
+    "score": "872.5"
   },
   "773622CDCD37643D": {
     "name": "Ace ",
@@ -6920,7 +7051,7 @@
       },
       "Rainbow Road: Solar Edition": {
         "category": 0,
-        "placement": 7
+        "placement": 8
       },
       "Sky High Island": {
         "category": 1,
@@ -7093,7 +7224,7 @@
   "40B20BE4FD8CA88C": {
     "name": "καgυγα",
     "bkts": 2,
-    "tops": 8,
+    "tops": 7,
     "tracks": {
       "Big Express City": {
         "category": 2,
@@ -7110,10 +7241,6 @@
       "Mystic Tangle": {
         "category": 0,
         "placement": 2
-      },
-      "N64 Yoshi Valley": {
-        "category": 0,
-        "placement": 7
       },
       "Sandstone Cliffs": {
         "category": 0,
@@ -7139,7 +7266,7 @@
       "silver": 33,
       "gold": 29
     },
-    "score": "306.3"
+    "score": "296.3"
   },
   "D8EEEF0F2872E83F": {
     "name": "καgυγα",
@@ -7308,12 +7435,12 @@
   },
   "FCA8B6A3913B4B6E": {
     "name": "Dante",
-    "bkts": 1,
+    "bkts": 2,
     "tops": 6,
     "tracks": {
       "BK Moai Mountain": {
         "category": 0,
-        "placement": 2
+        "placement": 0
       },
       "Fungal Jungle": {
         "category": 16,
@@ -7347,7 +7474,7 @@
       "silver": 96,
       "gold": 96
     },
-    "score": "241.6"
+    "score": "341.6"
   },
   "E46CDE283669FFA4": {
     "name": "Kasey",
@@ -7417,11 +7544,11 @@
     "controller": 2,
     "country": 255,
     "stars": {
-      "bronze": 61,
-      "silver": 61,
-      "gold": 60
+      "bronze": 64,
+      "silver": 64,
+      "gold": 63
     },
-    "score": "81.3"
+    "score": "83.9"
   },
   "58FF7F701A5AEE2A": {
     "name": "Jesse",
@@ -7470,6 +7597,213 @@
     },
     "score": "279.6"
   },
+  "2B5181110E294547": {
+    "name": "Sνkitty",
+    "bkts": 3,
+    "tops": 46,
+    "tracks": {
+      "BK Moai Mountain": {
+        "category": 0,
+        "placement": 7
+      },
+      "Bowser Jr.'s Crafty Castle": {
+        "category": 0,
+        "placement": 9
+      },
+      "Bowser Jr.'s Fort": {
+        "category": 0,
+        "placement": 6
+      },
+      "Bowser's Fiery Fortress": {
+        "category": 0,
+        "placement": 5
+      },
+      "Bowser's Termination Station": {
+        "category": 0,
+        "placement": 8
+      },
+      "Canyon Run": {
+        "category": 0,
+        "placement": 1
+      },
+      "Colour Wonderland": {
+        "category": 2,
+        "placement": 2
+      },
+      "Daisy's Palace": {
+        "category": 0,
+        "placement": 5
+      },
+      "Dark Matter Shrine": {
+        "category": 0,
+        "placement": 5
+      },
+      "Delfino Island": {
+        "category": 0,
+        "placement": 0
+      },
+      "Desktop Dash": {
+        "category": 0,
+        "placement": 5
+      },
+      "DK Ruins": {
+        "category": 0,
+        "placement": 5
+      },
+      "Dragon Burial Grounds": {
+        "category": 2,
+        "placement": 7
+      },
+      "DS DK Pass": {
+        "category": 0,
+        "placement": 5
+      },
+      "GBA Boo Lake": {
+        "category": 0,
+        "placement": 6
+      },
+      "GBA Bowser Castle 1": {
+        "category": 0,
+        "placement": 7
+      },
+      "GBA Bowser Castle 4": {
+        "category": 0,
+        "placement": 9
+      },
+      "GBA Broken Pier": {
+        "category": 0,
+        "placement": 9
+      },
+      "GBA Cheese Land": {
+        "category": 0,
+        "placement": 8
+      },
+      "GBA Lakeside Park": {
+        "category": 0,
+        "placement": 9
+      },
+      "GBA Luigi Circuit": {
+        "category": 0,
+        "placement": 4
+      },
+      "GBA Riverside Park": {
+        "category": 0,
+        "placement": 6
+      },
+      "GBA Sky Garden": {
+        "category": 0,
+        "placement": 7
+      },
+      "GBA Sunset Wilds": {
+        "category": 0,
+        "placement": 9
+      },
+      "Glimmer Express Trains": {
+        "category": 0,
+        "placement": 5
+      },
+      "Infernal Pipeyard": {
+        "category": 0,
+        "placement": 6
+      },
+      "Jiyuu Village": {
+        "category": 0,
+        "placement": 7
+      },
+      "Jungle Glade": {
+        "category": 1,
+        "placement": 3
+      },
+      "Lava Lake": {
+        "category": 0,
+        "placement": 3
+      },
+      "Lava Road": {
+        "category": 0,
+        "placement": 3
+      },
+      "Lost Fortress": {
+        "category": 0,
+        "placement": 2
+      },
+      "Mario Castle Raceway": {
+        "category": 0,
+        "placement": 0
+      },
+      "Mushroom Island": {
+        "category": 0,
+        "placement": 9
+      },
+      "Musical Motorway": {
+        "category": 0,
+        "placement": 1
+      },
+      "Northern Heights": {
+        "category": 0,
+        "placement": 8
+      },
+      "Rainbow Road: Solar Edition": {
+        "category": 0,
+        "placement": 6
+      },
+      "Ruinated Peach's Castle": {
+        "category": 0,
+        "placement": 8
+      },
+      "Sahara Hideout": {
+        "category": 0,
+        "placement": 6
+      },
+      "Sandstone Cliffs": {
+        "category": 0,
+        "placement": 1
+      },
+      "Siberian Chateau": {
+        "category": 0,
+        "placement": 2
+      },
+      "SNES Mario Circuit 2": {
+        "category": 0,
+        "placement": 3
+      },
+      "Strobenz Desert Illusion": {
+        "category": 0,
+        "placement": 1
+      },
+      "Summer Starville": {
+        "category": 0,
+        "placement": 0
+      },
+      "The Great Apple War": {
+        "category": 0,
+        "placement": 8
+      },
+      "Thwomp Swamp": {
+        "category": 0,
+        "placement": 8
+      },
+      "Twin Peaks": {
+        "category": 2,
+        "placement": 8
+      },
+      "Underground Sky": {
+        "category": 2,
+        "placement": 7
+      },
+      "Volcanic Valley": {
+        "category": 0,
+        "placement": 7
+      }
+    },
+    "controller": 1,
+    "country": 18,
+    "stars": {
+      "bronze": 249,
+      "silver": 249,
+      "gold": 249
+    },
+    "score": "971.6"
+  },
   "88C255F6DBFF60B7": {
     "name": "alan",
     "bkts": 0,
@@ -7481,7 +7815,7 @@
       },
       "Infernal Pipeyard": {
         "category": 0,
-        "placement": 7
+        "placement": 8
       },
       "Marble Towers": {
         "category": 0,
@@ -7512,7 +7846,7 @@
       },
       "Castle of Time": {
         "category": 0,
-        "placement": 8
+        "placement": 9
       },
       "Crystal Dungeon": {
         "category": 0,
@@ -7568,7 +7902,7 @@
       },
       "Infernal Pipeyard": {
         "category": 0,
-        "placement": 8
+        "placement": 9
       },
       "Koopa Shell Pipeland": {
         "category": 0,
@@ -7723,11 +8057,11 @@
     "controller": 3,
     "country": 255,
     "stars": {
-      "bronze": 195,
-      "silver": 195,
-      "gold": 195
+      "bronze": 196,
+      "silver": 196,
+      "gold": 196
     },
-    "score": "175.8"
+    "score": "176.6"
   },
   "80FACA0D74698AF8": {
     "name": "まっちゃもなか",
@@ -7750,11 +8084,11 @@
     "controller": 1,
     "country": 1,
     "stars": {
-      "bronze": 31,
-      "silver": 28,
-      "gold": 24
+      "bronze": 32,
+      "silver": 29,
+      "gold": 25
     },
-    "score": "52.1"
+    "score": "53.0"
   },
   "6D50919C1845009D": {
     "name": "Glιτch J",
@@ -7906,11 +8240,11 @@
     "controller": 1,
     "country": 77,
     "stars": {
-      "bronze": 218,
-      "silver": 218,
-      "gold": 209
+      "bronze": 220,
+      "silver": 220,
+      "gold": 212
     },
-    "score": "240.8"
+    "score": "243.0"
   },
   "C13AE08461DBD794": {
     "name": "Hz♪Jonny",
@@ -7959,96 +8293,6 @@
     },
     "score": "335.8"
   },
-  "47F412EAC1AC604F": {
-    "name": "Sam",
-    "bkts": 0,
-    "tops": 9,
-    "tracks": {
-      "Bowser Jr.'s Crafty Castle": {
-        "category": 1,
-        "placement": 2
-      },
-      "CTR N. Gin Labs": {
-        "category": 1,
-        "placement": 7
-      },
-      "GBA Bowser Castle 4": {
-        "category": 1,
-        "placement": 5
-      },
-      "GCN Luigi Circuit": {
-        "category": 1,
-        "placement": 5
-      },
-      "Luigi's Island": {
-        "category": 1,
-        "placement": 9
-      },
-      "Mech Factory": {
-        "category": 1,
-        "placement": 4
-      },
-      "Obstagoon's Palace": {
-        "category": 1,
-        "placement": 6
-      },
-      "The Grand Archives": {
-        "category": 1,
-        "placement": 6
-      },
-      "Wolf Castlegrounds": {
-        "category": 1,
-        "placement": 3
-      }
-    },
-    "controller": 0,
-    "country": 255,
-    "stars": {
-      "bronze": 94,
-      "silver": 57,
-      "gold": 52
-    },
-    "score": "139.7"
-  },
-  "708BBB3EE59D227F": {
-    "name": "WhenUSeeit",
-    "bkts": 0,
-    "tops": 6,
-    "tracks": {
-      "Bowser Jr.'s Crafty Castle": {
-        "category": 1,
-        "placement": 4
-      },
-      "CTR N. Gin Labs": {
-        "category": 1,
-        "placement": 8
-      },
-      "GBA Luigi Circuit": {
-        "category": 1,
-        "placement": 2
-      },
-      "Luigi's Island": {
-        "category": 1,
-        "placement": 3
-      },
-      "Ruinated Peach's Castle": {
-        "category": 1,
-        "placement": 7
-      },
-      "Yoshi's Woolly Raceway": {
-        "category": 1,
-        "placement": 4
-      }
-    },
-    "controller": 2,
-    "country": 255,
-    "stars": {
-      "bronze": 60,
-      "silver": 38,
-      "gold": 30
-    },
-    "score": "90.5"
-  },
   "3BEEF0AB0EE87435": {
     "name": "Nim Gol",
     "bkts": 0,
@@ -8067,81 +8311,6 @@
       "gold": 47
     },
     "score": "70.5"
-  },
-  "D6A08AABAF569EC3": {
-    "name": "CARSON MKW",
-    "bkts": 1,
-    "tops": 14,
-    "tracks": {
-      "Bowser Jr.'s Crafty Castle": {
-        "category": 1,
-        "placement": 6
-      },
-      "CTR Blizzard Bluff": {
-        "category": 1,
-        "placement": 1
-      },
-      "Delfino Island": {
-        "category": 1,
-        "placement": 3
-      },
-      "DS Cheep Cheep Beach": {
-        "category": 0,
-        "placement": 8
-      },
-      "Frantic Funyard": {
-        "category": 2,
-        "placement": 8
-      },
-      "GCN Luigi Circuit": {
-        "category": 1,
-        "placement": 4
-      },
-      "Hell Pyramid": {
-        "category": 16,
-        "placement": 7
-      },
-      "Jiyuu Village": {
-        "category": 1,
-        "placement": 5
-      },
-      "Jungle Cliff": {
-        "category": 1,
-        "placement": 2
-      },
-      "Marble Towers": {
-        "category": 1,
-        "placement": 2
-      },
-      "Mech Factory": {
-        "category": 1,
-        "placement": 2
-      },
-      "Obstagoon's Palace": {
-        "category": 1,
-        "placement": 8
-      },
-      "τ-Cryovolcano": {
-        "category": 16,
-        "placement": 0
-      },
-      "Toad's Temple": {
-        "category": 16,
-        "placement": 1
-      },
-      "Wolf Castlegrounds": {
-        "category": 1,
-        "placement": 8
-      }
-    },
-    "controller": 1,
-    "country": 49,
-    "stars": {
-      "bronze": 248,
-      "silver": 248,
-      "gold": 248
-    },
-    "score": "450.8"
   },
   "F416265D1D0EB41B": {
     "name": "Kαgυι",
@@ -8197,9 +8366,9 @@
     "stars": {
       "bronze": 201,
       "silver": 192,
-      "gold": 129
+      "gold": 130
     },
-    "score": "182.6"
+    "score": "183.1"
   },
   "C924039608AEDE35": {
     "name": "RG bro",
@@ -8235,7 +8404,7 @@
   "AF6E37764609B580": {
     "name": "Cantσn",
     "bkts": 0,
-    "tops": 28,
+    "tops": 29,
     "tracks": {
       "Bowser Jr.'s Fort": {
         "category": 0,
@@ -8319,7 +8488,7 @@
       },
       "Rainbow Road: Solar Edition": {
         "category": 0,
-        "placement": 8
+        "placement": 9
       },
       "Rosalina's Snow World": {
         "category": 0,
@@ -8348,6 +8517,10 @@
       "Vile Isle": {
         "category": 0,
         "placement": 8
+      },
+      "Wicked Woods": {
+        "category": 0,
+        "placement": 2
       }
     },
     "controller": 1,
@@ -8357,7 +8530,7 @@
       "silver": 250,
       "gold": 250
     },
-    "score": "492.5"
+    "score": "502.5"
   },
   "C33590C554E90E7A": {
     "name": "D:",
@@ -8370,7 +8543,7 @@
       },
       "Delfino Island": {
         "category": 0,
-        "placement": 7
+        "placement": 8
       },
       "Desert Castle Raceway": {
         "category": 16,
@@ -8536,7 +8709,7 @@
       },
       "N64 Yoshi Valley": {
         "category": 0,
-        "placement": 3
+        "placement": 4
       },
       "Pianta Shore": {
         "category": 0,
@@ -8747,7 +8920,7 @@
       },
       "Sandy Clocktower": {
         "category": 0,
-        "placement": 3
+        "placement": 4
       }
     },
     "controller": 3,
@@ -8824,6 +8997,25 @@
     },
     "score": "29.8"
   },
+  "C5C22D97E1850293": {
+    "name": "Ω H1ntz",
+    "bkts": 1,
+    "tops": 1,
+    "tracks": {
+      "Castle of Time": {
+        "category": 0,
+        "placement": 0
+      }
+    },
+    "controller": 1,
+    "country": 78,
+    "stars": {
+      "bronze": 3,
+      "silver": 3,
+      "gold": 1
+    },
+    "score": "111.5"
+  },
   "2592E224EFE8E458": {
     "name": "Qatar",
     "bkts": 0,
@@ -8831,7 +9023,7 @@
     "tracks": {
       "Castle of Time": {
         "category": 0,
-        "placement": 2
+        "placement": 3
       },
       "GBA Sky Garden": {
         "category": 0,
@@ -8850,11 +9042,11 @@
   "D367E0C9B589A5D0": {
     "name": "Bananaman3",
     "bkts": 0,
-    "tops": 7,
+    "tops": 8,
     "tracks": {
       "Castle of Time": {
         "category": 0,
-        "placement": 3
+        "placement": 4
       },
       "Cherry Blossom Garden": {
         "category": 0,
@@ -8867,6 +9059,10 @@
       "Frantic Funyard": {
         "category": 16,
         "placement": 3
+      },
+      "Infernal Pipeyard": {
+        "category": 0,
+        "placement": 7
       },
       "Melting Magma Melee": {
         "category": 0,
@@ -8884,11 +9080,11 @@
     "controller": 1,
     "country": 65,
     "stars": {
-      "bronze": 177,
-      "silver": 177,
-      "gold": 172
+      "bronze": 181,
+      "silver": 181,
+      "gold": 179
     },
-    "score": "217.9"
+    "score": "232.8"
   },
   "8633E11862D76590": {
     "name": "Fλ m",
@@ -8897,7 +9093,7 @@
     "tracks": {
       "Castle of Time": {
         "category": 0,
-        "placement": 7
+        "placement": 8
       },
       "Glacier Mine": {
         "category": 0,
@@ -9015,11 +9211,11 @@
     "controller": 1,
     "country": 18,
     "stars": {
-      "bronze": 41,
-      "silver": 31,
+      "bronze": 47,
+      "silver": 33,
       "gold": 6
     },
-    "score": "24.9"
+    "score": "25.9"
   },
   "4A501D68463BCA59": {
     "name": "Shαdε",
@@ -9069,11 +9265,11 @@
     "controller": 1,
     "country": 49,
     "stars": {
-      "bronze": 71,
-      "silver": 53,
+      "bronze": 74,
+      "silver": 56,
       "gold": 30
     },
-    "score": "85.3"
+    "score": "86.4"
   },
   "D3C6F4FDF5635296": {
     "name": "Prιngle@MV",
@@ -9105,7 +9301,7 @@
   "30119A4113CD3422": {
     "name": "★Prιngle",
     "bkts": 0,
-    "tops": 10,
+    "tops": 9,
     "tracks": {
       "Celestial Ruins": {
         "category": 0,
@@ -9139,10 +9335,6 @@
         "category": 0,
         "placement": 2
       },
-      "Wetland Woods": {
-        "category": 0,
-        "placement": 7
-      },
       "Yoshi's Woolly Raceway": {
         "category": 0,
         "placement": 2
@@ -9155,7 +9347,7 @@
       "silver": 111,
       "gold": 108
     },
-    "score": "192.8"
+    "score": "182.8"
   },
   "113187F11211B71F": {
     "name": "Tctrx",
@@ -9172,40 +9364,9 @@
     "stars": {
       "bronze": 250,
       "silver": 250,
-      "gold": 249
+      "gold": 250
     },
-    "score": "222.0"
-  },
-  "5BBC317B1915541E": {
-    "name": "B PEPE",
-    "bkts": 0,
-    "tops": 4,
-    "tracks": {
-      "Coin Heaven": {
-        "category": 0,
-        "placement": 3
-      },
-      "Sandy Clocktower": {
-        "category": 0,
-        "placement": 9
-      },
-      "The Great Apple War": {
-        "category": 0,
-        "placement": 4
-      },
-      "Toad's Temple": {
-        "category": 16,
-        "placement": 2
-      }
-    },
-    "controller": 2,
-    "country": 49,
-    "stars": {
-      "bronze": 200,
-      "silver": 200,
-      "gold": 194
-    },
-    "score": "207.0"
+    "score": "222.5"
   },
   "350784CA5B2A19E2": {
     "name": "PL Lucas",
@@ -9434,7 +9595,7 @@
       },
       "N64 Choco Mountain": {
         "category": 0,
-        "placement": 6
+        "placement": 7
       }
     },
     "controller": 2,
@@ -10213,11 +10374,11 @@
     "controller": 0,
     "country": 1,
     "stars": {
-      "bronze": 58,
-      "silver": 52,
+      "bronze": 59,
+      "silver": 53,
       "gold": 40
     },
-    "score": "258.8"
+    "score": "259.1"
   },
   "93B57E8BE7B5A3E4": {
     "name": "Naka GT",
@@ -10541,29 +10702,6 @@
     },
     "score": "38.4"
   },
-  "0EE99F9E9041C1A2": {
-    "name": "James",
-    "bkts": 0,
-    "tops": 2,
-    "tracks": {
-      "Delfino Island": {
-        "category": 0,
-        "placement": 6
-      },
-      "Dragonite's Island": {
-        "category": 0,
-        "placement": 3
-      }
-    },
-    "controller": 1,
-    "country": 49,
-    "stars": {
-      "bronze": 67,
-      "silver": 67,
-      "gold": 46
-    },
-    "score": "66.5"
-  },
   "EDE15287CC1F4D83": {
     "name": "",
     "bkts": 0,
@@ -10571,7 +10709,7 @@
     "tracks": {
       "Delfino Island": {
         "category": 0,
-        "placement": 9
+        "placement": 5
       },
       "GBA Ribbon Road": {
         "category": 0,
@@ -10591,6 +10729,29 @@
     },
     "score": "242.5"
   },
+  "0EE99F9E9041C1A2": {
+    "name": "James",
+    "bkts": 0,
+    "tops": 2,
+    "tracks": {
+      "Delfino Island": {
+        "category": 0,
+        "placement": 7
+      },
+      "Dragonite's Island": {
+        "category": 0,
+        "placement": 3
+      }
+    },
+    "controller": 1,
+    "country": 49,
+    "stars": {
+      "bronze": 67,
+      "silver": 67,
+      "gold": 46
+    },
+    "score": "66.5"
+  },
   "0E02630B1F38C7CC": {
     "name": "Laugh",
     "bkts": 0,
@@ -10609,33 +10770,6 @@
       "gold": 1
     },
     "score": "16.3"
-  },
-  "5066366167F619B7": {
-    "name": "Mkw Daigo",
-    "bkts": 0,
-    "tops": 3,
-    "tracks": {
-      "Delfino Island": {
-        "category": 1,
-        "placement": 6
-      },
-      "GCN Bowser's Castle": {
-        "category": 16,
-        "placement": 9
-      },
-      "GCN Luigi Circuit": {
-        "category": 1,
-        "placement": 8
-      }
-    },
-    "controller": 2,
-    "country": 1,
-    "stars": {
-      "bronze": 16,
-      "silver": 8,
-      "gold": 3
-    },
-    "score": "35.1"
   },
   "F1C546026EEE58A6": {
     "name": "mkw daigo",
@@ -10925,11 +11059,11 @@
     "controller": 1,
     "country": 18,
     "stars": {
-      "bronze": 221,
-      "silver": 220,
-      "gold": 185
+      "bronze": 223,
+      "silver": 222,
+      "gold": 186
     },
-    "score": "199.6"
+    "score": "200.8"
   },
   "A950224F73EAF66C": {
     "name": "10isthemax",
@@ -10954,7 +11088,7 @@
       },
       "Sandy Clocktower": {
         "category": 0,
-        "placement": 2
+        "placement": 3
       },
       "Sky High Island": {
         "category": 0,
@@ -10980,11 +11114,11 @@
     "controller": 2,
     "country": 49,
     "stars": {
-      "bronze": 89,
-      "silver": 87,
-      "gold": 65
+      "bronze": 91,
+      "silver": 89,
+      "gold": 66
     },
-    "score": "443.1"
+    "score": "444.4"
   },
   "62E2998F7927F806": {
     "name": "♪ghst.",
@@ -11435,15 +11569,11 @@
   "E0386183B02A17DC": {
     "name": "Juno",
     "bkts": 0,
-    "tops": 2,
+    "tops": 1,
     "tracks": {
       "Dragonite's Island": {
         "category": 0,
         "placement": 6
-      },
-      "Wicked Woods": {
-        "category": 0,
-        "placement": 9
       }
     },
     "controller": 2,
@@ -11453,7 +11583,7 @@
       "silver": 44,
       "gold": 23
     },
-    "score": "46.9"
+    "score": "36.9"
   },
   "E8DB2F628CB19DC0": {
     "name": "RΣ Skedar",
@@ -12327,7 +12457,7 @@
       },
       "Wicked Woods": {
         "category": 0,
-        "placement": 3
+        "placement": 5
       },
       "Yoshi Lagoon": {
         "category": 0,
@@ -12440,11 +12570,11 @@
     "controller": 3,
     "country": 49,
     "stars": {
-      "bronze": 164,
-      "silver": 164,
-      "gold": 164
+      "bronze": 169,
+      "silver": 169,
+      "gold": 168
     },
-    "score": "149.4"
+    "score": "153.2"
   },
   "F2E7CA82A35C4C68": {
     "name": "Sergio",
@@ -12471,11 +12601,11 @@
     "controller": 0,
     "country": 105,
     "stars": {
-      "bronze": 116,
+      "bronze": 117,
       "silver": 116,
       "gold": 114
     },
-    "score": "137.6"
+    "score": "137.7"
   },
   "39440A9A3044AB8E": {
     "name": "Austin",
@@ -12786,7 +12916,7 @@
       },
       "Sandy Clocktower": {
         "category": 0,
-        "placement": 1
+        "placement": 2
       },
       "Siberian Chateau": {
         "category": 0,
@@ -12892,11 +13022,11 @@
     "controller": 1,
     "country": 49,
     "stars": {
-      "bronze": 104,
-      "silver": 87,
-      "gold": 27
+      "bronze": 105,
+      "silver": 88,
+      "gold": 28
     },
-    "score": "55.6"
+    "score": "56.5"
   },
   "6CDDD6AC69E60269": {
     "name": "Findus",
@@ -12911,11 +13041,11 @@
     "controller": 1,
     "country": 255,
     "stars": {
-      "bronze": 159,
-      "silver": 154,
+      "bronze": 160,
+      "silver": 155,
       "gold": 36
     },
-    "score": "82.4"
+    "score": "82.8"
   },
   "2D876FC37D8CD9E7": {
     "name": "Skibidi",
@@ -12930,11 +13060,11 @@
     "controller": 3,
     "country": 49,
     "stars": {
-      "bronze": 226,
-      "silver": 220,
+      "bronze": 227,
+      "silver": 221,
       "gold": 48
     },
-    "score": "111.6"
+    "score": "112.0"
   },
   "629A89667513EE0A": {
     "name": "☆Star☆",
@@ -13330,7 +13460,7 @@
       },
       "Rainbow Road: Solar Edition": {
         "category": 0,
-        "placement": 2
+        "placement": 3
       },
       "τ-Cryovolcano": {
         "category": 2,
@@ -13489,11 +13619,11 @@
     "controller": 2,
     "country": 255,
     "stars": {
-      "bronze": 42,
-      "silver": 41,
-      "gold": 36
+      "bronze": 43,
+      "silver": 42,
+      "gold": 37
     },
-    "score": "242.4"
+    "score": "243.3"
   },
   "B96F916CEFCE9518": {
     "name": "mαttw ",
@@ -13732,11 +13862,11 @@
     "controller": 1,
     "country": 65,
     "stars": {
-      "bronze": 17,
-      "silver": 15,
-      "gold": 13
+      "bronze": 18,
+      "silver": 16,
+      "gold": 14
     },
-    "score": "21.9"
+    "score": "22.8"
   },
   "31335E62896F6BA9": {
     "name": "Willow",
@@ -13791,7 +13921,7 @@
       },
       "N64 Choco Mountain": {
         "category": 0,
-        "placement": 8
+        "placement": 9
       }
     },
     "controller": 3,
@@ -13973,11 +14103,11 @@
     "controller": 3,
     "country": 255,
     "stars": {
-      "bronze": 154,
-      "silver": 148,
+      "bronze": 155,
+      "silver": 149,
       "gold": 104
     },
-    "score": "134.4"
+    "score": "134.8"
   },
   "B7380FB3C7299FDD": {
     "name": "IF rosen",
@@ -14025,6 +14155,25 @@
     },
     "score": "142.1"
   },
+  "94CD410438B1A82F": {
+    "name": "Ramces",
+    "bkts": 0,
+    "tops": 1,
+    "tracks": {
+      "GBA Sky Garden": {
+        "category": 0,
+        "placement": 6
+      }
+    },
+    "controller": 1,
+    "country": 52,
+    "stars": {
+      "bronze": 39,
+      "silver": 37,
+      "gold": 10
+    },
+    "score": "28.1"
+  },
   "00AA88DF9707ED29": {
     "name": "Nεko",
     "bkts": 0,
@@ -14032,7 +14181,7 @@
     "tracks": {
       "GBA Sky Garden": {
         "category": 0,
-        "placement": 8
+        "placement": 9
       },
       "SNES Choco Island 2": {
         "category": 0,
@@ -14042,11 +14191,11 @@
     "controller": 1,
     "country": 83,
     "stars": {
-      "bronze": 120,
-      "silver": 119,
+      "bronze": 121,
+      "silver": 120,
       "gold": 117
     },
-    "score": "120.3"
+    "score": "120.6"
   },
   "3DC57C02F7A0CFE3": {
     "name": "Mαττγ",
@@ -14732,11 +14881,11 @@
     "controller": 1,
     "country": 255,
     "stars": {
-      "bronze": 120,
-      "silver": 117,
-      "gold": 92
+      "bronze": 123,
+      "silver": 119,
+      "gold": 95
     },
-    "score": "97.3"
+    "score": "99.5"
   },
   "EE91F250E359EC6E": {
     "name": "7κ☆Naomi",
@@ -14782,23 +14931,19 @@
     "controller": 3,
     "country": 251,
     "stars": {
-      "bronze": 88,
-      "silver": 86,
+      "bronze": 90,
+      "silver": 87,
       "gold": 66
     },
-    "score": "83.3"
+    "score": "83.8"
   },
   "5D5CCC435A8F3E60": {
     "name": "Hue☆Juan",
     "bkts": 1,
-    "tops": 3,
+    "tops": 2,
     "tracks": {
       "GCN Wario Colosseum": {
         "category": 2,
-        "placement": 9
-      },
-      "Super Sky Courtyard": {
-        "category": 0,
         "placement": 9
       }
     },
@@ -14809,7 +14954,7 @@
       "silver": 250,
       "gold": 250
     },
-    "score": "342.5"
+    "score": "332.5"
   },
   "9E0D6D2FBC109C35": {
     "name": "flurry",
@@ -14943,11 +15088,11 @@
     "controller": 2,
     "country": 66,
     "stars": {
-      "bronze": 238,
-      "silver": 238,
+      "bronze": 239,
+      "silver": 239,
       "gold": 238
     },
-    "score": "222.3"
+    "score": "222.7"
   },
   "496DAB4AEF4850B2": {
     "name": "Brett",
@@ -15008,11 +15153,11 @@
     "controller": 1,
     "country": 1,
     "stars": {
-      "bronze": 224,
-      "silver": 224,
-      "gold": 216
+      "bronze": 225,
+      "silver": 225,
+      "gold": 218
     },
-    "score": "216.4"
+    "score": "217.8"
   },
   "DD27452FD4B492A3": {
     "name": "MB4L☆F*",
@@ -15164,11 +15309,11 @@
     "controller": 2,
     "country": 255,
     "stars": {
-      "bronze": 125,
-      "silver": 90,
+      "bronze": 127,
+      "silver": 92,
       "gold": 1
     },
-    "score": "45.5"
+    "score": "46.2"
   },
   "00BE1A4F53F6C2C1": {
     "name": "satomi ",
@@ -15390,11 +15535,11 @@
     "controller": 2,
     "country": 255,
     "stars": {
-      "bronze": 78,
-      "silver": 73,
+      "bronze": 81,
+      "silver": 75,
       "gold": 14
     },
-    "score": "43.0"
+    "score": "43.9"
   },
   "C78C0989D55D8268": {
     "name": "Jack",
@@ -15959,9 +16104,9 @@
     "stars": {
       "bronze": 65,
       "silver": 47,
-      "gold": 37
+      "gold": 38
     },
-    "score": "146.8"
+    "score": "147.3"
   },
   "AA51A6CCF70FF2EB": {
     "name": "Arrσω",
@@ -15995,11 +16140,11 @@
     "controller": 1,
     "country": 49,
     "stars": {
-      "bronze": 115,
-      "silver": 114,
-      "gold": 101
+      "bronze": 118,
+      "silver": 117,
+      "gold": 104
     },
-    "score": "100.5"
+    "score": "103.0"
   },
   "952E3B4D6604E533": {
     "name": "ΛVΞ◆Pat",
@@ -16042,15 +16187,11 @@
   "AB9443137F4AF38B": {
     "name": "woshi :3",
     "bkts": 0,
-    "tops": 2,
+    "tops": 1,
     "tracks": {
       "Lunar Lights": {
         "category": 0,
         "placement": 6
-      },
-      "Sandy Clocktower": {
-        "category": 0,
-        "placement": 8
       }
     },
     "controller": 3,
@@ -16060,7 +16201,7 @@
       "silver": 147,
       "gold": 126
     },
-    "score": "134.9"
+    "score": "125.0"
   },
   "A81D212C11F775A0": {
     "name": "no name",
@@ -16190,11 +16331,11 @@
     "controller": 1,
     "country": 153,
     "stars": {
-      "bronze": 169,
-      "silver": 167,
-      "gold": 143
+      "bronze": 171,
+      "silver": 169,
+      "gold": 144
     },
-    "score": "150.2"
+    "score": "151.3"
   },
   "C61DF1FEE0C61D84": {
     "name": "かたつむり★goWR",
@@ -16399,11 +16540,11 @@
     "controller": 2,
     "country": 49,
     "stars": {
-      "bronze": 74,
-      "silver": 74,
-      "gold": 73
+      "bronze": 75,
+      "silver": 75,
+      "gold": 74
     },
-    "score": "72.4"
+    "score": "73.3"
   },
   "31107CD2CFC73AC5": {
     "name": "Se Shawn",
@@ -16470,28 +16611,24 @@
     },
     "score": "48.3"
   },
-  "654DC478E62A8D85": {
-    "name": "Pedolynchr",
+  "5A2A1D27A669A69A": {
+    "name": "¢L%Knee»%\\",
     "bkts": 0,
-    "tops": 2,
+    "tops": 1,
     "tracks": {
       "N64 Choco Mountain": {
         "category": 0,
-        "placement": 9
-      },
-      "SNES Donut Plains 3": {
-        "category": 0,
-        "placement": 9
+        "placement": 6
       }
     },
-    "controller": 3,
-    "country": 95,
+    "controller": 2,
+    "country": 255,
     "stars": {
-      "bronze": 14,
-      "silver": 14,
-      "gold": 14
+      "bronze": 1,
+      "silver": 1,
+      "gold": 1
     },
-    "score": "31.9"
+    "score": "10.8"
   },
   "611AF70B6321DE01": {
     "name": "Zane@MB",
@@ -16558,25 +16695,6 @@
     },
     "score": "62.5"
   },
-  "6C37FC09DD67E33B": {
-    "name": "βτ Bork",
-    "bkts": 0,
-    "tops": 1,
-    "tracks": {
-      "N64 Yoshi Valley": {
-        "category": 0,
-        "placement": 2
-      }
-    },
-    "controller": 2,
-    "country": 255,
-    "stars": {
-      "bronze": 46,
-      "silver": 46,
-      "gold": 37
-    },
-    "score": "44.6"
-  },
   "FEF24E2386613B1B": {
     "name": "ARime",
     "bkts": 0,
@@ -16584,7 +16702,7 @@
     "tracks": {
       "N64 Yoshi Valley": {
         "category": 0,
-        "placement": 4
+        "placement": 1
       }
     },
     "controller": 2,
@@ -16596,28 +16714,24 @@
     },
     "score": "42.4"
   },
-  "125011E9D72015A2": {
-    "name": "Flαg♪César",
+  "6C37FC09DD67E33B": {
+    "name": "βτ Bork",
     "bkts": 0,
-    "tops": 2,
+    "tops": 1,
     "tracks": {
       "N64 Yoshi Valley": {
         "category": 0,
-        "placement": 9
-      },
-      "Sky High Island": {
-        "category": 0,
-        "placement": 7
+        "placement": 3
       }
     },
     "controller": 2,
-    "country": 105,
+    "country": 255,
     "stars": {
-      "bronze": 9,
-      "silver": 9,
-      "gold": 8
+      "bronze": 46,
+      "silver": 46,
+      "gold": 37
     },
-    "score": "27.1"
+    "score": "44.6"
   },
   "58DF693E38F4F618": {
     "name": "AVE◆David",
@@ -16706,11 +16820,15 @@
   "2E9390843D29256E": {
     "name": "LV Ivan",
     "bkts": 1,
-    "tops": 2,
+    "tops": 3,
     "tracks": {
       "Northern Heights": {
         "category": 0,
         "placement": 0
+      },
+      "Rainbow Road: Solar Edition": {
+        "category": 0,
+        "placement": 1
       },
       "Underground Sky": {
         "category": 1,
@@ -16720,11 +16838,11 @@
     "controller": 3,
     "country": 83,
     "stars": {
-      "bronze": 238,
-      "silver": 238,
-      "gold": 237
+      "bronze": 250,
+      "silver": 250,
+      "gold": 246
     },
-    "score": "321.8"
+    "score": "340.5"
   },
   "B498908C1B8C3B63": {
     "name": "no name",
@@ -16786,25 +16904,6 @@
       "gold": 40
     },
     "score": "147.2"
-  },
-  "73ED89C1FBF56DB5": {
-    "name": "swim♪",
-    "bkts": 0,
-    "tops": 1,
-    "tracks": {
-      "Rainbow Road: Solar Edition": {
-        "category": 0,
-        "placement": 9
-      }
-    },
-    "controller": 1,
-    "country": 49,
-    "stars": {
-      "bronze": 191,
-      "silver": 191,
-      "gold": 186
-    },
-    "score": "169.8"
   },
   "7F1981604F0044A2": {
     "name": "Mn◇Swampy",
@@ -16973,7 +17072,7 @@
     "tracks": {
       "Sandy Clocktower": {
         "category": 0,
-        "placement": 4
+        "placement": 5
       }
     },
     "controller": 2,
@@ -17099,6 +17198,25 @@
     },
     "score": "166.3"
   },
+  "125011E9D72015A2": {
+    "name": "Flαg♪César",
+    "bkts": 0,
+    "tops": 1,
+    "tracks": {
+      "Sky High Island": {
+        "category": 0,
+        "placement": 7
+      }
+    },
+    "controller": 2,
+    "country": 105,
+    "stars": {
+      "bronze": 9,
+      "silver": 9,
+      "gold": 8
+    },
+    "score": "17.1"
+  },
   "D96D6332D318956D": {
     "name": "ア★Empex",
     "bkts": 0,
@@ -17156,25 +17274,6 @@
     },
     "score": "25.9"
   },
-  "BBD2EC73FF52D568": {
-    "name": "sy Dαnnγ",
-    "bkts": 0,
-    "tops": 1,
-    "tracks": {
-      "SNES Bowser Castle 2": {
-        "category": 0,
-        "placement": 6
-      }
-    },
-    "controller": 2,
-    "country": 49,
-    "stars": {
-      "bronze": 250,
-      "silver": 250,
-      "gold": 226
-    },
-    "score": "210.5"
-  },
   "C4983C367EAB47D8": {
     "name": "βaιιs 35",
     "bkts": 0,
@@ -17193,6 +17292,25 @@
       "gold": 114
     },
     "score": "138.3"
+  },
+  "654DC478E62A8D85": {
+    "name": "Pedolynchr",
+    "bkts": 0,
+    "tops": 1,
+    "tracks": {
+      "SNES Donut Plains 3": {
+        "category": 0,
+        "placement": 9
+      }
+    },
+    "controller": 3,
+    "country": 95,
+    "stars": {
+      "bronze": 14,
+      "silver": 14,
+      "gold": 14
+    },
+    "score": "21.9"
   },
   "14017D797EA1BFA3": {
     "name": "Hibiscus",
@@ -17292,29 +17410,6 @@
       "gold": 19
     },
     "score": "26.6"
-  },
-  "1A789964BBB60F9D": {
-    "name": "Michael",
-    "bkts": 0,
-    "tops": 2,
-    "tracks": {
-      "Strobenz Desert Illusion": {
-        "category": 0,
-        "placement": 9
-      },
-      "Toad's Temple": {
-        "category": 16,
-        "placement": 3
-      }
-    },
-    "controller": 2,
-    "country": 49,
-    "stars": {
-      "bronze": 250,
-      "silver": 250,
-      "gold": 250
-    },
-    "score": "232.5"
   },
   "1AAB5E2ECF2BC80B": {
     "name": "Cγ kit",
@@ -17434,6 +17529,25 @@
     },
     "score": "222.5"
   },
+  "02FF23672E95165D": {
+    "name": "Bynt",
+    "bkts": 0,
+    "tops": 1,
+    "tracks": {
+      "Super Sky Courtyard": {
+        "category": 0,
+        "placement": 6
+      }
+    },
+    "controller": 1,
+    "country": 49,
+    "stars": {
+      "bronze": 250,
+      "silver": 250,
+      "gold": 250
+    },
+    "score": "222.5"
+  },
   "D18650980C060934": {
     "name": "Jackson",
     "bkts": 0,
@@ -17472,24 +17586,24 @@
     },
     "score": "28.4"
   },
-  "26F7217860457A2E": {
-    "name": "coop",
+  "F5EC8A23AACFCEE6": {
+    "name": "あじさい。",
     "bkts": 0,
     "tops": 1,
     "tracks": {
       "τ-Cryovolcano": {
         "category": 16,
-        "placement": 9
+        "placement": 6
       }
     },
-    "controller": 2,
-    "country": 49,
+    "controller": 3,
+    "country": 1,
     "stars": {
-      "bronze": 90,
-      "silver": 89,
-      "gold": 69
+      "bronze": 107,
+      "silver": 98,
+      "gold": 31
     },
-    "score": "75.8"
+    "score": "60.7"
   },
   "1C6A832CF6B30CFF": {
     "name": "ElecTrick",
@@ -17618,11 +17732,11 @@
     "controller": 2,
     "country": 18,
     "stars": {
-      "bronze": 184,
-      "silver": 184,
+      "bronze": 187,
+      "silver": 187,
       "gold": 141
     },
-    "score": "144.9"
+    "score": "145.9"
   },
   "EC76B472398CD117": {
     "name": "L;",
@@ -17755,11 +17869,11 @@
     "controller": 2,
     "country": 49,
     "stars": {
-      "bronze": 161,
-      "silver": 134,
-      "gold": 79
+      "bronze": 165,
+      "silver": 138,
+      "gold": 80
     },
-    "score": "99.1"
+    "score": "101.0"
   },
   "35352F68FCCB28A5": {
     "name": "ηαrα",
@@ -17914,7 +18028,7 @@
     "score": "52.6"
   },
   "7ED82242442D6B1A": {
-    "name": "MV dream",
+    "name": "ayame",
     "bkts": 1,
     "tops": 1,
     "tracks": {
@@ -17981,7 +18095,7 @@
       },
       "Wicked Woods": {
         "category": 0,
-        "placement": 6
+        "placement": 7
       }
     },
     "controller": 3,
@@ -18202,5 +18316,5 @@
     },
     "score": "29.2"
   },
-  "lastUpdated": 1731846696587
+  "lastUpdated": 1732591512577
 }
